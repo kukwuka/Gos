@@ -1,0 +1,11 @@
+drwxr-xr-x 1 yhuse 197609     0 Jul 27 16:36 3_1
+drwxr-xr-x 1 yhuse 197609     0 Jul 27 14:12 3_2
+drwxr-xr-x 1 yhuse 197609     0 Jul 27 16:35 3_3
+drwxr-xr-x 1 yhuse 197609     0 Jul 27 15:02 3_4
+drwxr-xr-x 1 yhuse 197609     0 Jul 27 16:27 3_5
+drwxr-xr-x 1 yhuse 197609     0 Jul 27 16:35 3_6
+drwxr-xr-x 1 yhuse 197609     0 Jul 27 16:36 3_8
+-rw-r--r-- 1 yhuse 197609   142 Jul 27 16:37 go.mod
+-rw-r--r-- 1 yhuse 197609 21394 Jul 27 16:37 go.sum
+drwxr-xr-x 1 yhuse 197609     0 Jul 27 13:22 wget
+drwxr-xr-x 1 yhuse 197609     0 Jul 19 18:26 zad2
