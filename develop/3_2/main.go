@@ -8,11 +8,14 @@ import (
 )
 
 func main() {
-	str := "qwe\\45"
+	str := "a4bc2d5e"
 	fmt.Println(str)
 	str, err := unzipStr(str)
 	if err != nil {
 		log.Fatal(err)
+	}
+	if str != "aaaabccddddde" {
+		log.Fatal("failed")
 	}
 	fmt.Println(str)
 }

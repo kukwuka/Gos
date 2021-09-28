@@ -1,7 +1,7 @@
 package services
 
 import (
-	"11/pkg"
+	"github.com/kukwuka/Gos/develop/3_11/pkg"
 )
 
 type IEvent interface {

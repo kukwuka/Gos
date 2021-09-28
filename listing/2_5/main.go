@@ -17,8 +17,9 @@ func test() *customError {
 
 func main() {
 	var err error
-
+	err = test()
 	if err != nil {
+		print(err)
 		println("error")
 		return
 	}

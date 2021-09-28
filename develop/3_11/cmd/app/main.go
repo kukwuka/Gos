@@ -1,8 +1,8 @@
 package main
 
 import (
-	"11/pkg/handlers"
-	"11/pkg/services"
+	"github.com/kukwuka/Gos/develop/3_11/pkg/handlers"
+	"github.com/kukwuka/Gos/develop/3_11/pkg/services"
 	"net/http"
 )
 

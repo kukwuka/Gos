@@ -32,7 +32,7 @@ func main() {
 
 	str := os.Args[len(os.Args)-1]
 
-	t, err := ioutil.ReadFile("/home/dmitrii/go/src/wb/wb_boss2/22_5/input.txt")
+	t, err := ioutil.ReadFile("./text.txt")
 	if err != nil {
 		log.Fatal(err.Error())
 	}
@@ -67,7 +67,7 @@ func main() {
 		fmt.Println(Fixed(str, text))
 	}
 
-	fmt.Println(text)
+	//fmt.Println(text)
 
 }
 

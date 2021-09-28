@@ -1,8 +1,8 @@
 package handlers
 
 import (
-	"11/pkg"
 	"encoding/json"
+	"github.com/kukwuka/Gos/develop/3_11/pkg"
 	"net/http"
 )
 

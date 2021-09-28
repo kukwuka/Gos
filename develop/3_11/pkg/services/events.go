@@ -1,8 +1,8 @@
 package services
 
 import (
-	"11/pkg"
 	"fmt"
+	"github.com/kukwuka/Gos/develop/3_11/pkg"
 	"reflect"
 	"time"
 )

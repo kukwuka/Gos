@@ -1,8 +1,8 @@
 package handlers
 
 import (
-	"11/pkg/services"
 	"fmt"
+	"github.com/kukwuka/Gos/develop/3_11/pkg/services"
 	"net/http"
 	"time"
 )
